@@ -55,7 +55,7 @@
     "react": "^15.5.4",
     "react-addons-test-utils": "^15.6.0",
     "react-dom": "^15.5.0",
-    "webpack": "3.5.5"
+    "webpack": "5.94.0"
   },
   "dependencies": {
     "react-icons": "^2.2.5",
